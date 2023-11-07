@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔍 Ingénieur logiciel passionné par la création d'applications innovantes.<br>🌱 Développeur junior, explorant activement le monde du développement web et avide d'apprendre.<br>🤝 Toujours à la recherche de collaborations stimulantes et d'apprentissages continus.<br>🚀 Contribueur actif à des projets open-source et fervent défenseur du partage de connaissances.<br>
+🌱 Développeur junior, explorant activement le monde du développement web et avide d'apprendre.<br>🤝 Toujours à la recherche de collaborations stimulantes et d'apprentissages continus.<br>🚀 Contribueur actif à des projets open-source et fervent défenseur du partage de connaissances.<br>
 
 
 ## 🌐 Socials:
